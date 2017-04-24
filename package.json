@@ -1,0 +1,13 @@
+{
+  "name": "max-browser-height",
+  "version": "1.0.0",
+  "description": "Get browser max possible height",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/soyuka/max-browser-height",
+  "keywords": ["browser", "max", "height"],
+  "author": "Tim Branyen (@tbranyen)",
+  "license": "MIT"
+}
